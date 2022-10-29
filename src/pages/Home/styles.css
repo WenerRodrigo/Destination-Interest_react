@@ -1,0 +1,19 @@
+@media (min-width: 1024px) {
+    .home {
+        width: 100%;
+    }
+
+    .box_one {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 40px;
+    }
+
+    .box_two {
+        display: flex;
+        justify-content: center;
+        align-items:center;
+    }
+
+}
+
