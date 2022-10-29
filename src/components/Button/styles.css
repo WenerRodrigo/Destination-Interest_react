@@ -1,0 +1,13 @@
+.button {
+    width: 100%;
+    height: 2rem;
+    margin: 2rem 0;
+    background: #3d3df1;
+    color: #ffffff;
+    border-radius: 4px;
+    transition: all .2s ease-in-out;
+}
+
+.button:hover {
+    transform: scale(1.1);
+}
