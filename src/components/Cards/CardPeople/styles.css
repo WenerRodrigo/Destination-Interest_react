@@ -1,0 +1,10 @@
+.cardpeople {
+    width: 100%;
+    height: auto;
+    border: 2px solid gray;
+    border-radius: 4px;
+}
+
+.cardPeople_title {
+    color: red;
+}
